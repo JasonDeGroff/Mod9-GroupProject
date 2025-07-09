@@ -1,10 +1,21 @@
 @charset "utf-8";
 /* CSS Document */
 
+
 body {
     background-color: #3d6ed9;
 }
 
 main {
 
+}
+
+
+.roboto-font {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
 }
