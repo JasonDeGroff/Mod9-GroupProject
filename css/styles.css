@@ -31,3 +31,37 @@
 .disabled {
     font-weight: 800;
 }
+
+/* White background behind text */
+.white-bg {
+    background-color: white;
+    padding: 2em;
+    border-radius: 5px;
+}
+
+/* Default image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin: 1em;
+}
+
+/* Image sizes */
+.img-lg {
+    max-width: 65%;
+}
+.img-md {
+    max-width: 55%;
+}
+.img-sm {
+    max-width: 45%;
+}
+
+/* Floating */
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
