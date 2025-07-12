@@ -2,8 +2,8 @@
 
 /* Overrides bootstrap's default colors */
 :root {
-    --bs-body-bg: #3d6ed9;
-    --bs-secondary-color: #1b3366;
+    --bs-body-bg: #7296E3;
+    --bs-secondary-color: #172C59;
 }
 
 /* Roboto CSS Classes */
@@ -18,7 +18,7 @@
 
 /* Modifies the color of disabled and hovered elements in the navbar. --bs-emphasis-color-rgb is the default color of navbar text*/
 .navbar {
-    --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.4);
+    --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.55);
     --bs-navbar-hover-color: rgba(var(--bs-emphasis-color-rgb), 0.6);
 }
 
